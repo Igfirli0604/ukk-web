@@ -1,3 +1,4 @@
+/* Login Page */
 .btn-color{
   background-color: #0e1c36;
   color: #fff;
@@ -18,4 +19,13 @@
 
 a{
   text-decoration: none;
+}
+
+/* Pengaduan Page */
+.full__height {
+  height: 100vh;
+}
+
+.full__height .content__wrapper {
+  height: inherit;
 }
